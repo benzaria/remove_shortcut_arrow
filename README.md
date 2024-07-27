@@ -40,7 +40,7 @@ Start the Executable
     
 ```
 >[!TIP]
-> - For changing the shortcut arrow make sure that the image you chouse represent ~25% from the icon you make.  
+> - For changing the shortcut arrow make sure that the image you chouse represent ~25% from the icon you make.
 > - Always put the paths in double quotes.
 
 ## Features
