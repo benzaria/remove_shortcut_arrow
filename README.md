@@ -40,8 +40,8 @@ Start the Executable
     
 ```
 >[!TIP]
-> - For changing the shortcut arrow make sure that the image you chouse represent ~25% from the icon you make.
-> - Always put the paths in double quotes.
+> .For changing the shortcut arrow make sure that the image you chouse represent ~25% from the icon you make.  
+> .Always put the paths in double quotes.
 
 ## Features
 - Easy to use, simply by double clicking the .exe file Or from the command prompt for advance operation
