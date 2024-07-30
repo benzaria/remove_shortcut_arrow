@@ -39,6 +39,7 @@ Start the Executable
      !! The program needs elevated privileges to make changes on the registry !!
     
 ```
+
 >[!TIP]
 > .For changing the shortcut arrow make sure that the image you chouse represent ~25% from the icon you make.  
 > .Always put the paths in double quotes.
