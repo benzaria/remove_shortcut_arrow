@@ -34,11 +34,10 @@ Start the Executable
        -ico <ico>  change the default <blanc.ico> for your desired icon
 
      !! The program needs elevated privileges to make changes on the registry !!
-    
 ```
 
 >[!TIP]
-> .For changing the shortcut arrow make sure that the image you chouse represent ~25% from the icon you make.  
+> .For changing the shortcut arrow make sure that the image you choose represent ~25% from the icon you make.  
 > .Always put the paths in double quotes.
 
 ## Features
