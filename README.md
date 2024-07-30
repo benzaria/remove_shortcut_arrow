@@ -12,10 +12,7 @@ remove and change shortcut arrow for windows 10, 11,...
 
 ## Downloading
 Download the [Releases](https://github.com/benzaria/remove_shortcut_arrow/releases)  
-```
-:: Or Clone the repository
-git clone https://github.com/benzaria/remove_shortcut_arrow.git 
-```
+Or Clone the repository `git clone https://github.com/benzaria/remove_shortcut_arrow.git`
 
 ## Usage
 Start the Executable
